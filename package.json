@@ -1,13 +1,14 @@
 {
-  "name": "eosio-mongodb-queries",
-  "version": "1.0.0",
+  "name": "bcskill-eosio-mongodb-queries",
+  "version": "1.0.1",
   "description": "EOSIO MongoDB Queries",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
     "index.js",
     "index.d.ts",
-    "src"
+    "src",
+    "types"
   ],
   "scripts": {
     "test": "tslint --project .",

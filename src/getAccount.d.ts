@@ -30,5 +30,5 @@ export declare function getAccount(client: MongoClient, name: string, options?: 
     stake_quantity: number;
     stake_net_quantity: number;
     stake_cpu_quantity: number;
-    actions: import("../../../../../Users/denis/Github/eosio-mongodb-queries/src/getActions").Action[];
+    actions: import("./getActions").Action[];
 }>;
